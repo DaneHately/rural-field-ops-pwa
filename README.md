@@ -3,7 +3,6 @@
 **Tech Stack:** Firebase (Auth, Firestore, Storage), JavaScript, Bootstrap 5, Progressive Web App (PWA)  
 **Status:** Live in Production (Active Customers)
 
-![Dashboard Screenshot](images/dashboard-hero.png)
 *(Note: Client name, data, and source code are kept private to protect proprietary business logic and customer IP. This repository serves as an architectural case study.)*
 
 ## 🛑 The Business Problem
